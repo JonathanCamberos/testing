@@ -1,0 +1,11 @@
+.left-section {
+    background-color: #f0f0f0;
+  }
+
+
+  .left-section {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  

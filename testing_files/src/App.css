@@ -1,0 +1,48 @@
+
+
+
+.mainPage{
+    font-family: 'Times New Roman', Times, serif;
+}
+.pageColor{
+    background-color: #fdf7c7;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    min-width: 320px; /* Minimum width */
+    max-width: 1000px; /* Maximum width */
+}
+  
+
+
+/* Header.css */
+
+.header-container {
+    padding: 10px;
+    text-align: center;
+}
+  
+.header-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.header-area {
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+
+/* SplitLayout.css*/
+
+.split-container {
+    display: flex;
+    height: 100vh;
+  }
+  

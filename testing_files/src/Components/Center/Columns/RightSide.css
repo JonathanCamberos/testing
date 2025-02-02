@@ -1,0 +1,11 @@
+.right-section {
+    background-color: #fff;
+  }
+
+
+  .right-section {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
